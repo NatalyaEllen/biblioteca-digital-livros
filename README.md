@@ -1,6 +1,6 @@
 # Biblioteca Digital de Livros
 
-Projeto desenvolvido em Laravel para a disciplina de Engenharia de Software.
+Projeto desenvolvido em Laravel para a disciplina de fullstack no curso de Engenharia de Software.
 
 ## Descrição
 
